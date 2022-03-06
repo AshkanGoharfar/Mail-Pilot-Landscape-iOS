@@ -197,7 +197,7 @@
 				E9222A0A27AB51F100353E41 /* Managers */,
 				E9222A012798EBE600353E41 /* GameObjects */,
 				E92229FC2798E1CB00353E41 /* Core */,
-				E9222971278FAAC600353E41 /* MAPD724-W2022-ICE4 */,
+				E9222971278FAAC600353E41 /* MainViewController */,
 				E9222970278FAAC600353E41 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -210,7 +210,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E9222971278FAAC600353E41 /* MAPD724-W2022-ICE4 */ = {
+		E9222971278FAAC600353E41 /* MainViewController */ = {
 			isa = PBXGroup;
 			children = (
 				E9222972278FAAC600353E41 /* AppDelegate.swift */,
@@ -220,7 +220,7 @@
 				E9222981278FAAC800353E41 /* LaunchScreen.storyboard */,
 				E92229892798DE6D00353E41 /* Assets */,
 			);
-			path = "MAPD724-W2022-ICE4";
+			path = MainViewController;
 			sourceTree = "<group>";
 		};
 		E92229892798DE6D00353E41 /* Assets */ = {
